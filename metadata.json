@@ -1,0 +1,6 @@
+{
+  "name": "The Pizza Oven",
+  "description": "Authentic wood-fired pizzas baked with premium, fresh ingredients and crafted with love. Order online for swift hot delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
